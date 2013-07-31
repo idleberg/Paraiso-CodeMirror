@@ -6,7 +6,7 @@ A color scheme inspired by the colorful illustrations by Brazilian artist [Ruben
 
 ## Installation
 
-1. Download a style-sheet and place it to CodeMirror's `theme` director
+1. Download a style-sheet and place it to CodeMirror's `theme` directory
 2. Refer to the [CodeMirror Manual][3] for build instructions
 
 ## License
