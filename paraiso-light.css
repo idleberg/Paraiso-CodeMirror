@@ -1,11 +1,10 @@
 /*
+    Name:     Paraíso (light)
+    Author:   Jan T. Sott
+    License:  Creative Commons Attribution-ShareAlike 3.0 Unported License
+    URL:      https://github.com/idleberg/Paraiso-CodeMirror
 
-    Name:       Paraíso (Light)
-    Author:     Jan T. Sott
-
-    Color scheme by Jan T. Sott (https://github.com/idleberg/Paraiso-CodeMirror)
     Inspired by the art of Rubens LP (http://www.rubenslp.com.br)
-
 */
 
 .cm-s-paraiso-light.CodeMirror {background: #e7e9db; color: #41323f;}
